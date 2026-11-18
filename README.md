@@ -1,4 +1,4 @@
-# Hi, I'm Red!!!
+# Hi, I'm Rehan!!!
 
 **AI/ML Engineer in Cairo** building machine learning and deep learning models, LLM/RAG systems, computer vision pipelines, and full-stack AI products, from training to deployed app.
 I like taking an AI idea past the notebook stage: retrieval pipelines, APIs, a real frontend, and a live deployment someone can click on.
