@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Red!!!
 
-<!--
-**reebee101/reebee101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML Engineer in Cairo** building machine learning and deep learning models, LLM/RAG systems, computer vision pipelines, and full-stack AI products, from training to deployed app.
+I like taking an AI idea past the notebook stage: retrieval pipelines, APIs, a real frontend, and a live deployment someone can click on.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+- **LinkUp**: co-founder, Creative Lead & AI Engineer. A Cairo-based platform for IRL social events.
+
+### 🛠️ Tech stack
+| | |
+|---|---|
+| **ML / Deep Learning** | `<e.g. PyTorch / TensorFlow / scikit-learn>` · `<e.g. CNNs, transformers, fine-tuning>` |
+| **LLM / RAG** | Groq (LLaMA 3.3 70B) · ChromaDB · retrieval pipelines · prompt engineering |
+| **Computer Vision** | OpenCV / PyTorch |
+| **Backend** | Python · FastAPI · Supabase |
+| **Frontend** | React |
+| **Deploy** | Vercel · Render |
+
+### Education
+B.Sc. Computer Science, El Shorouk Academy (2026), Excellent with Honours, ranked 5th in class.
+
+### Focus areas
+- Retrieval-augmented generation and LLM-powered products
+- Computer vision systems
+- Shipping end-to-end: data → model → API → UI → deploy
+
+### 📫 Get in touch
+[Email](mailto:rehanm.fathi@gmail.com) 
+
+*Open to AI/ML engineering opportunities.*
